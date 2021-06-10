@@ -1,4 +1,9 @@
-font-family: 'Furore', sans-serif;
+
+@font-face { font-family: 'Furore', sans-serif;
+  src: url("fonts/furore.otf");
+  
+
+}
 
 ::-moz-selection {
   color: #FFF;
